@@ -10,15 +10,6 @@ Program ini merupakan program data mahasiswa menggunakan stuktur data linear **S
 - [x] Keluar program
 ---
 
-### 👤 Identitas Mahasiswa
-- **Nama:** Egi Nugraha  
-- **NIM:** 2802597854  
-- **Mata Kuliah:** Data Structures and Algorithm Analysis  
-- **Kode Mata Kuliah:** COSC6025036
-- **Kode Kelas:** LOCA
-
----
-
 ### 🚀 Cara Menjalankan Program
 
 1. Clone source code dari repository
@@ -33,5 +24,4 @@ javac *.java
 ```bash
 java MahasiswaApp
 ```
-
-Terima kasih 🙏🏻
+Maintained by [Sabio](https://sabio.co.id/)
